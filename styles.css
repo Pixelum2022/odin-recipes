@@ -5,8 +5,46 @@ background-color: aliceblue;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
+div {
+width: 50%;
+background-color: lightblue;
+margin-left: auto;
+margin-right: auto;
+margin-top: 50px;
+border-width: 50px;
+border-radius: 100%;
+border-color: antiquewhite;
+}
+
+a {
+text-decoration: none;
+color: burlywood;
+}
+
 h1 {
-color: white;
+color: rgb(189, 148, 60);
+font-size: 64px;
+font-weight: bold;
+text-align: center;
+}
+
+h2 {
+color: rgb(201, 175, 118);
 font-size: 32px;
 font-weight: bold;
+text-align: center;
+}
+
+ul {
+  list-style-type: none; /* Remove bullets */
+  padding: 5px;
+  margin: 5px;
+}
+li {
+color: antiquewhite;
+font-size: 24px;
+text-align: center;
+text-decoration: none;
+margin-top: 30px;
+margin-bottom: 30px;
 }
