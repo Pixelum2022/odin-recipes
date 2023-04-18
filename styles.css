@@ -1,0 +1,12 @@
+/* styles.css */
+
+html {
+background-color: aliceblue;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+color: white;
+font-size: 32px;
+font-weight: bold;
+}
